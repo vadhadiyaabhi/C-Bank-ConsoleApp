@@ -1,0 +1,15 @@
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.BusinessLogicLayer\bin\Debug\BankConsoleApp.BusinessLogicLayer.dll
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.BusinessLogicLayer\bin\Debug\BankConsoleApp.BusinessLogicLayer.pdb
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.BusinessLogicLayer\bin\Debug\BankConsoleApp.Configuration.dll
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.BusinessLogicLayer\bin\Debug\BankConsoleApp.DataAccessLayer.dll
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.BusinessLogicLayer\bin\Debug\BankConsoleApp.Entities.dll
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.BusinessLogicLayer\bin\Debug\BankConsoleApp.Exceptions.dll
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.BusinessLogicLayer\bin\Debug\BankConsoleApp.Configuration.pdb
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.BusinessLogicLayer\bin\Debug\BankConsoleApp.DataAccessLayer.pdb
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.BusinessLogicLayer\bin\Debug\BankConsoleApp.Entities.pdb
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.BusinessLogicLayer\bin\Debug\BankConsoleApp.Exceptions.pdb
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.BusinessLogicLayer\obj\Debug\BankConsoleApp.BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.BusinessLogicLayer\obj\Debug\BankConsoleApp.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.BusinessLogicLayer\obj\Debug\BankConsoleApp.BusinessLogicLayer.csproj.CopyComplete
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.BusinessLogicLayer\obj\Debug\BankConsoleApp.BusinessLogicLayer.dll
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.BusinessLogicLayer\obj\Debug\BankConsoleApp.BusinessLogicLayer.pdb

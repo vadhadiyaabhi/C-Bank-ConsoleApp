@@ -1,0 +1,11 @@
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.DataAccessLayer\bin\Debug\BankConsoleApp.DataAccessLayer.dll
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.DataAccessLayer\bin\Debug\BankConsoleApp.DataAccessLayer.pdb
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.DataAccessLayer\bin\Debug\BankConsoleApp.Entities.dll
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.DataAccessLayer\bin\Debug\BankConsoleApp.Exceptions.dll
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.DataAccessLayer\bin\Debug\BankConsoleApp.Entities.pdb
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.DataAccessLayer\bin\Debug\BankConsoleApp.Exceptions.pdb
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.DataAccessLayer\obj\Debug\BankConsoleApp.DataAccessLayer.csproj.AssemblyReference.cache
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.DataAccessLayer\obj\Debug\BankConsoleApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.DataAccessLayer\obj\Debug\BankConsoleApp.DataAccessLayer.csproj.CopyComplete
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.DataAccessLayer\obj\Debug\BankConsoleApp.DataAccessLayer.dll
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.DataAccessLayer\obj\Debug\BankConsoleApp.DataAccessLayer.pdb

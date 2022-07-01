@@ -1,0 +1,6 @@
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.Configuration\bin\Debug\BankConsoleApp.Configuration.dll
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.Configuration\bin\Debug\BankConsoleApp.Configuration.pdb
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.Configuration\obj\Debug\BankConsoleApp.Configuration.csproj.AssemblyReference.cache
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.Configuration\obj\Debug\BankConsoleApp.Configuration.csproj.CoreCompileInputs.cache
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.Configuration\obj\Debug\BankConsoleApp.Configuration.dll
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.Configuration\obj\Debug\BankConsoleApp.Configuration.pdb

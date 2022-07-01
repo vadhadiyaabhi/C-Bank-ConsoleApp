@@ -1,0 +1,9 @@
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.Entities\bin\Debug\BankConsoleApp.Entities.dll
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.Entities\bin\Debug\BankConsoleApp.Entities.pdb
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.Entities\bin\Debug\BankConsoleApp.Exceptions.dll
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.Entities\bin\Debug\BankConsoleApp.Exceptions.pdb
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.Entities\obj\Debug\BankConsoleApp.Entities.csproj.AssemblyReference.cache
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.Entities\obj\Debug\BankConsoleApp.Entities.csproj.CoreCompileInputs.cache
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.Entities\obj\Debug\BankConsoleApp.Entities.csproj.CopyComplete
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.Entities\obj\Debug\BankConsoleApp.Entities.dll
+D:\ArguSoft\BankConsoleApp.Presentation\BankConsoleApp.Entities\obj\Debug\BankConsoleApp.Entities.pdb
